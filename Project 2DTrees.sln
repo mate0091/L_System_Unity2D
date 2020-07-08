@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 2DTrees", "Project 2DTrees.csproj", "{B62BEC45-3A3D-D038-8ADF-4576CA44560C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 2DTrees.Editor", "Project 2DTrees.Editor.csproj", "{B0121CF1-0E7F-5C71-01B1-7C989D118BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62BEC45-3A3D-D038-8ADF-4576CA44560C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62BEC45-3A3D-D038-8ADF-4576CA44560C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62BEC45-3A3D-D038-8ADF-4576CA44560C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62BEC45-3A3D-D038-8ADF-4576CA44560C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0121CF1-0E7F-5C71-01B1-7C989D118BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0121CF1-0E7F-5C71-01B1-7C989D118BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0121CF1-0E7F-5C71-01B1-7C989D118BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0121CF1-0E7F-5C71-01B1-7C989D118BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
